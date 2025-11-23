@@ -1,0 +1,12 @@
+{
+  "name": "Crypto Zone Marketplace",
+  "symbol": "CZM",
+  "decimals": 6,
+  "logo": "https://i.imgur.com/BmJ6oHX.png",
+  "website": "",
+  "whitepaper": "",
+  "description": "Token utilitaire pour valider des annonces et bénéficier de réductions sur des achats.",
+  "socials": {
+    "twitter": "https://x.com/cryptozonemp"
+  }
+}
